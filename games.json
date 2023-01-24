@@ -1,0 +1,82 @@
+{
+  "951": {
+    "name": "Fall Guys: Ultimate Knockout",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/fall-guys.png"
+  },
+  "1004": {
+    "name": "Stray",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/stray.png"
+  },
+  "990": {
+    "name": "Stardew Valley",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/stardew-valley.png"
+  },
+  "23": {
+    "name": "Fortnite",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/fortnite.png"
+  },
+  "221": {
+    "name": "Grand Theft Auto V",
+    "platform": "Rockstar Launcher",
+    "icon": "https://boosteroid.saith.dev/gta5.png"
+  },
+  "57": {
+    "name": "Grand Theft Auto V",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/gta5.png"
+  },
+  "299": {
+    "name": "Grand Theft Auto V",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/gta5.png"
+  },
+  "726": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/red-dead-redemption-2.png"
+  },
+  "681": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/red-dead-redemption-2.png"
+  },
+  "235": {
+    "name": "Red Dead Redemption 2",
+    "platform": "Rockstar Launcher",
+    "icon": "https://boosteroid.saith.dev/red-dead-redemption-2.png"
+  },
+  "705": {
+    "name": "Red Dead Online",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/red-dead-redemption-2.png"
+  },
+  "1141": {
+    "name": "Death Stranding: Director's Cut",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/death-stranding-director.png"
+  },
+  "111": {
+    "name": "Destiny 2",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/destiny2.png"
+  },
+  "175": {
+    "name": "Payday 2",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/payday2.png"
+  },
+  "383": {
+    "name": "Don't Starve Together",
+    "platform": "Steam",
+    "icon": "https://boosteroid.saith.dev/dst.png"
+  },
+  "808": {
+    "name": "Nioh: The Complete Edition",
+    "platform": "Epic",
+    "icon": "https://boosteroid.saith.dev/nioh.png"
+  }
+}
