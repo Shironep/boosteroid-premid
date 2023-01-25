@@ -78,5 +78,10 @@
     "name": "Nioh: The Complete Edition",
     "platform": "Epic",
     "icon": "https://i.imgur.com/kG4LWeI.png"
+  },
+  "1052": {
+    "name": "Portal 2",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/78CAvOL.png"
   }
 }
