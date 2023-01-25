@@ -83,5 +83,40 @@
     "name": "Portal 2",
     "platform": "Steam",
     "icon": "https://i.imgur.com/ObXrUi8.png"
+  },
+  "182": {
+    "name": "Left 4 Dead 2",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/edUWTJQ.png"
+  },
+  "690": {
+    "name": "Alien Isolation",
+    "platform": "Epic",
+    "icon": "https://i.imgur.com/eJ6ie3F.png"
+  },
+  "836": {
+    "name": "eFootball™ 2023",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/j8YVdRr.png"
+  },
+  "952": {
+    "name": "Raft",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/xs0nLcO.png"
+  },
+  "1028": {
+    "name": "Sleeping Dogs: Definitive Edition",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/AVNkKS2.png"
+  },
+  "220": {
+    "name": "Euro Truck Simulator 2",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/E0SSdTg.png"
+  },
+  "668": {
+    "name": "The Forest",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/OBas4vd.png"
   }
 }
