@@ -123,5 +123,10 @@
     "name": "The Forest",
     "platform": "Steam",
     "icon": "https://i.imgur.com/OBas4vd.png"
+  },
+  "54": {
+    "name": "Counter-Strike: Global Offensive",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/KrAZz1h.jpg"
   }
 }
