@@ -4,10 +4,10 @@
     "platform": "Epic",
     "icon": "https://i.imgur.com/9on86FX.png"
   },
-  851: {
-		name: "Inscryption",
-		platform: "Steam",
-		icon: "https://i.imgur.com/Us4MoEx.jpg"
+  "851": {
+    "name": "Inscryption",
+    "platform": "Steam",
+    "icon": "https://i.imgur.com/Us4MoEx.jpg"
 	},
   "1004": {
     "name": "Stray",
